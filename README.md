@@ -1,6 +1,7 @@
 <picture align="left">
-    <source width=50% align="left" media="(prefers-color-scheme: dark)" src="ASCII-art-dark.png">
-    <img width=50% align="left" alt="Andrew Grant's GitHub Profile README" src="ASCII-art.png">
+    <!-- <source width=50% align="left" media="(prefers-color-scheme: dark)" src="ASCII-art-dark.png"> -->
+    <img width=50% align="left" alt="" media="(prefers-color-scheme: dark)" src="ASCII-art.png">
+    <img width=50% align="left" alt="" media="(prefers-color-scheme: light)" src="ASCII-art.png">
 </picture>
 
 ```
