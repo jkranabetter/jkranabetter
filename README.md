@@ -31,5 +31,4 @@ Hobbies:
     - Rock Climbing, Chess
 ----------------------------------
 Discord: FishingEnjoyer#1293
-Linkedin: https://www.linkedin.com/in/joshua-kranabetter-27a38077/
 ```
