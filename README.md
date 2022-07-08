@@ -1,7 +1,6 @@
 <picture align="left">
-    <!-- <source width=50% align="left" media="(prefers-color-scheme: dark)" src="ASCII-art-dark.png"> -->
-    <img width=50% align="left" alt="" media="(prefers-color-scheme: dark)" src="ASCII-art-dark.png">
-    <img width=50% align="left" alt="" media="(prefers-color-scheme: light)" src="ASCII-art.png">
+  <source srcset="ASCII-art-dark.png" media="(prefers-color-scheme: dark)">
+  <img src="ASCII-art.png">
 </picture>
 
 ```
