@@ -1,6 +1,6 @@
 <picture>
-  <source width=40% align="left" srcset="ASCII-art-dark.png" media="(prefers-color-scheme: dark)">
-  <img width=40% align="left" src="ASCII-art.png">
+  <source width=40% align="left" srcset="ganart2.png" media="(prefers-color-scheme: dark)">
+  <img width=40% align="left" src="ganart2.png">
 </picture>
 
 ```
