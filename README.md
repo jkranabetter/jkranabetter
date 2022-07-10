@@ -24,7 +24,8 @@ Frameworks:
     - Pytorch
     - Sklearn
 Learning: 
-    - Rust
+    - React
+    - FastAPI
     - Django
 Hobbies: 
     - Gardening
