@@ -19,6 +19,7 @@ Interests:
     - Software Developement
 Frameworks:
     - Flask
+    - React
     - Tensorflow
     - Pytorch
     - Sklearn
