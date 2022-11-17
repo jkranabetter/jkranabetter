@@ -7,7 +7,6 @@
 Joshua Kranabetter
 ----------------------------------
 OS: Windows / Linux
-Pronouns: He/Him
 Location: British Columbia, Canada
 Languages: 
     - Python
