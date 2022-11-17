@@ -16,6 +16,7 @@ Languages:
     - Java
 Interests:
     - Machine Learning
+    - Automation
     - Software Developement
 Frameworks:
     - Flask
@@ -23,10 +24,6 @@ Frameworks:
     - Tensorflow
     - Pytorch
     - Sklearn
-Learning: 
-    - React
-    - FastAPI
-    - Django
 Hobbies: 
     - Gardening
     - Arduino/Raspberry Pi
